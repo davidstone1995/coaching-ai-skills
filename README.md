@@ -34,8 +34,13 @@ AI skill files for the coaching and chaplaincy lane. All skills require `coachin
 ### Communication
 | Folder | What it does |
 |---|---|
-| `communication/coaching-email` | Client emails: follow-up, check-in, onboarding, scheduling |
-| `communication/cohort-communication` | Cohort-wide communications, session reminders, summaries |
+| `communication/communication-coaching` | Communication coaching: clarity, structure, presence, confidence, audience awareness |
+
+### Podcasts
+| Folder | What it does |
+|---|---|
+| `podcasts/isolation-kills` | Isolation Kills: episode outlines, show notes, social clips, guest prep |
+| `podcasts/whole-faith` | Whole:Faith Church and Mental Health: episode outlines, show notes, social clips, guest prep |
 
 ---
 
