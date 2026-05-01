@@ -42,6 +42,11 @@ AI skill files for the coaching and chaplaincy lane. All skills require `coachin
 | `podcasts/isolation-kills` | Isolation Kills: episode outlines, show notes, social clips, guest prep |
 | `podcasts/whole-faith` | Whole:Faith Church and Mental Health: episode outlines, show notes, social clips, guest prep |
 
+### Consulting (in development)
+| Folder | What it does |
+|---|---|
+| `church-systems` | Church systems consulting framework -- Nelson Searcy / Journey Church model. Audit, implementation planning, session prep. Distinct from ICF coaching. |
+
 ---
 
 ## Entity Quick Reference
@@ -58,3 +63,5 @@ AI skill files for the coaching and chaplaincy lane. All skills require `coachin
 
 - `pastor-ai-skills` -- Pastoral lane: sermon prep, Bible study, church communication
 - `clearvision-ai-skills` -- Marketing and CRM lane: Clear Vision Design and Marketing, CV Pro Tools
+- `campus-ministry-ai-skills` -- Campus ministry lane: BSU, student follow-up, event planning, MB Collegiate
+- `r6-fast-start` -- R6 agency delivery system and ICC client creation steps
