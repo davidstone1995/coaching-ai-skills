@@ -18,6 +18,7 @@ AI skill files for the coaching and chaplaincy lane. All skills require `coachin
 | `coaching-prep/session-prep` | Pre-session agenda, focus questions, notes framework |
 | `coaching-prep/intake` | New client onboarding, intake questions, welcome communication |
 | `coaching-prep/assessment-debrief` | SYMBIS and Prepare and Enrich debrief frameworks |
+| `coaching-prep/icf-qualifier` | ACC session analysis tool -- upload transcript, get a full competency report with evidence, contra-evidence, Good/Acceptable/Improve feedback, and Pass/Fail recommendation |
 
 ### Chaplaincy (Team Care)
 | Folder | What it does |
